@@ -1,0 +1,16 @@
+
+
+.text_answer {
+    font-size: 20px;
+    color:red;
+}
+
+.text_question {
+    font-size: 30px;
+    color:maroon;
+}
+
+.text_score {
+    font-size: 40px;
+    color:rgb(5, 118, 107);
+}

@@ -1,0 +1,12 @@
+
+
+
+
+input[type="text"] {
+    border:0;
+    background-color: transparent;
+    border-bottom: 4px solid white;
+    width: 60px;
+    outline: 0;
+    font-size: 40px;
+}
